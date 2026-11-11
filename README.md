@@ -224,6 +224,8 @@ data-dependent
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: |
 | **Locating and Editing Factual Associations in GPT** | FFN | Causal Attribution | Targeted Optimization | NeurIPS | 2022 | [Link](https://openreview.net/forum?id=-h6WAS6eE4) |
 | **Mass-Editing Memory in a Transformer** | FFN | Causal Attribution | Targeted Optimization | ICLR | 2023 | [Link](https://openreview.net/forum?id=MkbcAHIYgyS) |
+| **ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation** | FFN | Magnitude Analysis | Amplitude Manipulation | NeurIPS | 2025 | [Link](https://arxiv.org/abs/2502.15543) |
+| **SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation** | FFN | - | Amplitude Manipulation | ArXiv | 2026 | [Link](https://arxiv.org/abs/2606.27786) |
 | **Joint Localization and Activation Editing for Low-Resource Fine-Tuning** | MHA | Magnitude Analysis | Targeted Optimization | ICML | 2025 | [Link](https://openreview.net/forum?id=Lllg9YjAFX) |
 | **Taming Knowledge Conflicts in Language Models** | MHA | Magnitude Analysis | Amplitude Manipulation | ICML | 2025 | [Link](https://openreview.net/forum?id=0cEZyhHEks) |
 | **Massive Values in Self-MHA Modules are the Key to Contextual Knowledge Understanding** | MHA | Magnitude Analysis | Amplitude Manipulation | ICML | 2025 | [Link](https://openreview.net/forum?id=1SMcxxQiSL) |
